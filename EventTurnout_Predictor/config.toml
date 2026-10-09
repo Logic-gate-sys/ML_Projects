@@ -1,0 +1,7 @@
+# config.toml
+[theme]
+primaryColor = "#00BFFF"
+backgroundColor = "#F0F8FF"
+secondaryBackgroundColor = "#B0E0E6"
+textColor = "#00008B"
+font = "sans serif"
