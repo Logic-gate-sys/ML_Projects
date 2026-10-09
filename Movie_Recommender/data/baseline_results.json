@@ -1,0 +1,9 @@
+{
+    "model": "Baseline (Weighted Popularity)",
+    "test_rmse": 1.0024823114557453,
+    "test_mae": 0.7713729402872065,
+    "mean_error": 0.002775952847115491,
+    "std_error": 1.0024785421227924,
+    "total_predictions": 6765188,
+    "cold_start_predictions": 743210
+}
